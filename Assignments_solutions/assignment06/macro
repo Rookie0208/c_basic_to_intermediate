@@ -1,0 +1,8 @@
+#define loop(i, a, b) for (int i = (a); i < (b); i++)
+#define inp(a)                   \
+    int(a);                      \
+    scanf("%d", &(a));
+
+#define out(a) printf("%d", (a))
+#define outp(a) printf((a));
+#define inpp(a) scanf("%d", &(a))
